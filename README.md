@@ -21,3 +21,5 @@ maybe think that if you start programming with busy mind and it have been solve 
  You are not sure that can you finish the project or not . Say No if you know you cant .
 
 - if find new framework or new programming lang or service, do not get carried away and forget your old beliefs to starting that and migrate your things on that . 
+
+- your imporvment and learnung is not your team task.  You should work for your company and done the tasks, learning time is not at work. After work or weekends or at the way to go home(or work) you can do learning.
