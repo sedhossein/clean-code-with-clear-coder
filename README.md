@@ -25,3 +25,5 @@ maybe think that if you start programming with busy mind and it have been solve 
 - your imporvment and learnung is not your team task.  You should work for your company and done the tasks, learning time is not at work. After work or weekends or at the way to go home(or work) you can do learning.
 
 - in my opinion, the good function has 1-3 line of codes . 3-5 in not bad, 5-9 in ok,more than 10 line, should be two function !  
+
+- at the firt of the develop, look at your project target, and find the best architect patterns and design for your work flow. You have no chance to have mistakes, couse the refactoring need new time and money ! The company never like it 😅
