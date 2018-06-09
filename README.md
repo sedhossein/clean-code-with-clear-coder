@@ -29,3 +29,5 @@ maybe think that if you start programming with busy mind and it have been solve 
 - at the firt of the develop, look at your project target, and find the best architect patterns and design for your work flow. You have no chance to have mistakes, couse the refactoring need new time and money ! The company never like it 😅
 
 - introduce yourself in your resume real and claerly, your art is that show yourself with simplest words, well.
+
+- take a few minute or an hour a day to learning new things, see the other technologies and tools, you should be ready for chnage your work language or field in few year later . Be update !
