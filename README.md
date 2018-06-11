@@ -31,3 +31,5 @@ maybe think that if you start programming with busy mind and it have been solve 
 - introduce yourself in your resume real and claerly, your art is that show yourself with simplest words, well.
 
 - take a few minute or an hour a day to learning new things, see the other technologies and tools, you should be ready for chnage your work language or field in few year later . Be update !
+
+- do not be a Fanatic with any programmer language or flow works methods, it is the cheeapest and the noobs have it. every method and programmer lang maybe is better than other in diffrent fields and conditions .
