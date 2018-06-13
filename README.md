@@ -35,3 +35,5 @@ maybe think that if you start programming with busy mind and it have been solve 
 - do not be a Fanatic on any programmer language or flow works methods, it is the cheeapest and the noobs have it. every method and programmer lang maybe is better than other in diffrent fields and conditions .
 
 - if you have any interview or conferance , and you decide that do not go there, or you can not go there, you should tell them this problem. do not Notifying them is not an interesting job !
+
+- it is not important that how much the project is force and you dont have enough time, this atmosfer fource you to make the bad and dirty code. If you could do it, know and say to your ceo that the codes of these part mabye will write again, couse they are real shit code !
