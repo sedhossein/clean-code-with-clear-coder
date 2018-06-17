@@ -39,3 +39,6 @@ maybe think that if you start programming with busy mind and it have been solve 
 - it is not important that how much the project is force and you dont have enough time, this atmosfer fource you to make the bad and dirty code. If you could do it, know and say to your ceo that the codes of these part mabye will write again, couse they are real shit code !
 
 - know that you are not for your wokr! your work is for you, i mean you are not suppost to work till a certain time, you could work everyday in your life , maybe someday it happnes that you wont coding anymore, but you should be healty for enjoy with your family wokrs or ... that th emost important thing is you and your life. i suggest you to spend some time on sports. 
+
+- keep in mind these words :
+ 1. When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred. - Samer Buna
