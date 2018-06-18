@@ -40,5 +40,8 @@ maybe think that if you start programming with busy mind and it have been solve 
 
 - know that you are not for your wokr! your work is for you, i mean you are not suppost to work till a certain time, you could work everyday in your life , maybe someday it happnes that you wont coding anymore, but you should be healty for enjoy with your family wokrs or ... that th emost important thing is you and your life. i suggest you to spend some time on sports. 
 
+- Code s written primarily for coworkers not compilers. The ultimate test is your code simple enough is can your fellow programmers with similar backgrounds understand your code? if your co-workers have a hard time understanding your code, investigate why. Maybe it’s your code that’s too complex. Maybe there wasn’t enough tests. Maybe you used an uncommon algorithm. The conversation about code is key.
+
+
 - keep in mind these words :
  1. When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred. - Samer Buna
