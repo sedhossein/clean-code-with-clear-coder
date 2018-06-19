@@ -42,6 +42,7 @@ maybe think that if you start programming with busy mind and it have been solve 
 
 - Code s written primarily for coworkers not compilers. The ultimate test is your code simple enough is can your fellow programmers with similar backgrounds understand your code? if your co-workers have a hard time understanding your code, investigate why. Maybe it’s your code that’s too complex. Maybe there wasn’t enough tests. Maybe you used an uncommon algorithm. The conversation about code is key.
 
+- in the low ages, the small companies are better for you, you cant have many permision in larg groups, and in small ones can learning more and more than the bigs ...
 
 - keep in mind these words :
  1. When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred. - Samer Buna
