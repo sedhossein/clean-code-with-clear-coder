@@ -45,4 +45,7 @@ maybe think that if you start programming with busy mind and it have been solve 
 - in the low ages, the small companies are better for you, you cant have many permision in larg groups, and in small ones can learning more and more than the bigs ...
 
 - keep in mind these words :
- 1. When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred. - Samer Buna
+ 1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
+
+ 2. "You need to study other people's work. Their approaches to problem solving and the tools they use give you a fresh way to look at your own work." - Gary Kildall
+ 
