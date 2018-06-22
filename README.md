@@ -44,10 +44,11 @@ maybe think that if you start programming with busy mind and it have been solve 
 
 - in the low ages, the small companies are better for you, you cant have many permision in larg groups, and in small ones can learning more and more than the bigs ...
 
+- befor start and write the code, first should wrote his tests. Toppa is a fan of two kinds of tests: unit tests and integration tests. Unit tests test functionality in isolation. Integration tests ensure that a change over _here_ doesn’t break something over _there_. Test-driven development is an approach that helps ensure that tests are in place and can help keep code clean.
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
  2. "You need to study other people's work. Their approaches to problem solving and the tools they use give you a fresh way to look at your own work." - Gary Kildall
   
-  3. "Software innovation, like almost every other kind of innovation, requires the ability to collaborate and share ideas with other people, and to sit down and talk with customers and get their feedback and understand their needs."
- - Bill Gates
+  3. "Software innovation, like almost every other kind of innovation, requires the ability to collaborate and share ideas with other people, and to sit down and talk with customers and get their feedback and understand their needs." - Bill Gates
