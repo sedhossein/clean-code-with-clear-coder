@@ -48,6 +48,9 @@ maybe think that if you start programming with busy mind and it have been solve 
 
 - Be a master listener, one of the tricks is being a good listener to learn and understanding well ! Evrybody know how to speak and kill the time .
 
+- Use intention revealing names. Choosing good names takes time but saves more than it takes.The name of a variable, function, or class, should answer all the big questions. It should tell you why it exists, what it does, and how it is used. If a name requires a comment, then the name does not reveal its intent.
+
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
