@@ -52,6 +52,8 @@ maybe think that if you start programming with busy mind and it have been solve 
 
 - code optimizing is not just one level in your project (if it need to optimization), in evey level of the project the optimization have some sections to do .
 
+- a master programmer is not who has a lot of project , is who have a strong and perfect in most of his projects. be a master one.
+
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
