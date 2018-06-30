@@ -56,6 +56,7 @@ maybe think that if you start programming with busy mind and it have been solve 
 
 - its ok that sometimes the have have force project and the time is going to the project deadline, but do not accept that work in your weekends and more that your task. yo can say NO easily sometime .
 
+- keep in mind that the algorythms are always more important of the codes, thats mean we have a lot of coders, but a few of them are real developer .
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
