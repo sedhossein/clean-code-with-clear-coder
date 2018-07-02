@@ -60,6 +60,7 @@ maybe think that if you start programming with busy mind and it have been solve 
 
 - maybe the begginers have the good ideo for solve the problem, the experience is not the resoan that dont listen to they idea. pay attention some time :D
 
+- the Programing and algorithm knowlages is not enough for be a master,  the  social relation and public speaking are the so important things that our family ( computer mans ) have not. lets be stronger than yesterday. maybe some times we dont need a CEO !
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
