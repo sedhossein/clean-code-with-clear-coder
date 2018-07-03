@@ -63,8 +63,6 @@ maybe think that if you start programming with busy mind and it have been solve 
 - the Programing and algorithm knowlages is not enough for be a master,  the  social relation and public speaking are the so important things that our family ( computer mans ) have not. lets be stronger than yesterday. maybe some times we dont need a CEO !
 
 
-- for few minutes, every day, follow the news and check the treneds of the world, it can be lucrative for you .
-
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
