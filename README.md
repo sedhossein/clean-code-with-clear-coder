@@ -65,6 +65,9 @@ maybe think that if you start programming with busy mind and it have been solve 
 
 - for few minutes, every day, follow the news and check the treneds of the world, it can be lucrative for you .
 
+- each art has special price. Do not work with every cash and know the values, it is so important that do your projects with good price .
+
+
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
