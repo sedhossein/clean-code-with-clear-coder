@@ -67,6 +67,8 @@ maybe think that if you start programming with busy mind and it have been solve 
 
 - each art has special price. Do not work with every cash and know the values, it is so important that do your projects with good price .
 
+- don not have any fear of new langs or tools, they are easy like old ones, just you could learn somethings more from it.
+
 
 
 - keep in mind these words :
