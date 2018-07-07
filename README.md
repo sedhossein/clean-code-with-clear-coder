@@ -69,6 +69,8 @@ maybe think that if you start programming with busy mind and it have been solve 
 
 - don not have any fear of new langs or tools, they are easy like old ones, just you could learn somethings more from it.
 
+- Procedural code(using data structures) makes it hard to add new data structures because all the functions must change. OO code makes it hard to add new functions because all the classes must change.
+
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
