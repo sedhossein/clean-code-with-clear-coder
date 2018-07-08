@@ -71,6 +71,7 @@ maybe think that if you start programming with busy mind and it have been solve 
 
 - Procedural code(using data structures) makes it hard to add new data structures because all the functions must change. OO code makes it hard to add new functions because all the classes must change.
 
+- do not look at your desktop and monitor for a long time, have eyes exercise every hour .
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
