@@ -73,6 +73,10 @@ maybe think that if you start programming with busy mind and it have been solve 
 
 - do not look at your desktop and monitor for a long time, have eyes exercise every hour .
 
+
+- people talk a lot, dont care about that, the lion do not listen to dogs sparks !! ^^
+
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
