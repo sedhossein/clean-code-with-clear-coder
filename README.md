@@ -77,6 +77,8 @@ maybe think that if you start programming with busy mind and it have been solve 
 - people talk a lot, dont care about that, the lion do not listen to dogs sparks !! ^^
 
 
+- in your work: be yourself, have discipline, do not work more, do not work less, be a person that could be ;)
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
