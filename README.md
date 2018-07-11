@@ -79,6 +79,9 @@ maybe think that if you start programming with busy mind and it have been solve 
 
 - in your work: be yourself, have discipline, do not work more, do not work less, be a person that could be ;)
 
+
+- keep in mind the events, the histories, but yesterday is died, now we are in today, have a new life,start it with your heart ^^
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
