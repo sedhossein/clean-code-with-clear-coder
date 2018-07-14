@@ -84,6 +84,8 @@ maybe think that if you start programming with busy mind and it have been solve 
 
 - alway have, paper, pen, headphone, charger, internet and your todo list, these are enough for a long time 😅
 
+- it is ok that you could be match with your work space , but if the new place have its rules, you should have your rules, it is help you, that be more comfortable and have better sense in with your work and finaly better performance in your programs
+
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
