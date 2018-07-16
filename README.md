@@ -89,6 +89,10 @@ maybe think that if you start programming with busy mind and it have been solve 
 
 - in the teams that they do not have software and developing knowlage, the most important thing is not your work or code, rather it is Presentation and representation. couse they can not understand the cost of your work and it is more important that have good present .
 
+- the most important day of your work timeline, is your interview day . in it you shoud say everythings that think someday is a problem or is your demands and donates. like: weekends, vacations or dismissal, Hours of work, your speed of each part of your Skills and so on ... .
+
+
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
