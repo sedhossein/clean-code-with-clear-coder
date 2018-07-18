@@ -93,6 +93,8 @@ maybe think that if you start programming with busy mind and it have been solve 
 
 - in some days and situations your group (or team or  company or ...) have a acute face, its your duty to help them and mabe need to spend more time on your working each day, its OK, but just for [for axample] a few day or maximum 2 week every 3 maounth note every week ! dont complicate this part to supra notes ;)
 
+- good music in your tierd time can help you to get better ,  but not always and in all times.
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
