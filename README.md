@@ -95,6 +95,9 @@ maybe think that if you start programming with busy mind and it have been solve 
 
 - good music in your tierd time can help you to get better ,  but not always and in all times.
 
+- answer to others questions, that other ones answer to your questions . if know some concept or etc. , teach them to others, let them to be better .
+
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
