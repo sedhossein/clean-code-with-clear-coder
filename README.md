@@ -98,6 +98,8 @@ maybe think that if you start programming with busy mind and it have been solve 
 - answer to others questions, that other ones answer to your questions . if know some concept or etc. , teach them to others, let them to be better .
 
 
+- your programing life have several part, one of them is your next or future work, maybe you are at work and have good situation, but your knowlage should be update and new any time , that in your next work if your current company(team or ...) do not want you or etc, you can find the another good job for yourself and the other companies want your skills.
+
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
