@@ -100,6 +100,9 @@ maybe think that if you start programming with busy mind and it have been solve 
 
 - your programing life have several part, one of them is your next or future work, maybe you are at work and have good situation, but your knowlage should be update and new any time , that in your next work if your current company(team or ...) do not want you or etc, you can find the another good job for yourself and the other companies want your skills.
 
+- Talk about your problems and discontents to your CEO and boss, this can help you and him(or his) that solve the problem and find the best way to doing that. ;)
+be honest ...
+
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
