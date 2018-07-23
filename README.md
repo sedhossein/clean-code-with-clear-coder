@@ -104,6 +104,9 @@ maybe think that if you start programming with busy mind and it have been solve 
 be honest ...
 
 
+- The one of the professionals  habits, is refactoring step. after that the tasks done, they(the codes) need check again , maybe find a bug, or a better pattern or algorytm, maybe the queries or loops redused . at last, the famous sentence that say "if the codes work, dont touch it" ! thats pure bullshit :-) refactores the codes, make better perfomance and clean then, be a clear coder ^^
+
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
