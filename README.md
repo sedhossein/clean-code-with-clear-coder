@@ -108,6 +108,8 @@ be honest ...
 
 - Writing lots of code does not mean that you’ve written lots of software. It may just mean you are written lots of bugs.
 
+- As any discussion about code layout grows, the probability of it descending into a fruitless argument approaches one. You know the tabs vs spaces, bracket placement weather on new line or the same line.
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
