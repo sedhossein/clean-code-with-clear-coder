@@ -112,6 +112,9 @@ be honest ...
 
 - If you’re working in a file that doesn’t follow the layout conventions of the rest of your project, follow the layout conventions in that file.
 
+- A good name is descriptive, correct, and idiomatic.
+You can only name something well if you know exactly what it is. Make sure you know what it is before giving cryptic names to variables.
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
