@@ -110,6 +110,8 @@ be honest ...
 
 - As any discussion about code layout grows, the probability of it descending into a fruitless argument approaches one. You know the tabs vs spaces, bracket placement weather on new line or the same line.
 
+- If you’re working in a file that doesn’t follow the layout conventions of the rest of your project, follow the layout conventions in that file.
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
