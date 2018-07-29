@@ -115,6 +115,9 @@ be honest ...
 - A good name is descriptive, correct, and idiomatic.
 You can only name something well if you know exactly what it is. Make sure you know what it is before giving cryptic names to variables.
 
+-More code means there is more to read and more to understand — it makes our programs harder to comprehend.
+The more code you have, the more places there are for bugs to hide and tracking them down may not be that easy.
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
