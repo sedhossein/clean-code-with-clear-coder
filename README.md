@@ -122,6 +122,10 @@ The more code you have, the more places there are for bugs to hide and tracking 
 If you spot duplication, remove it.
 
 
+- Ensure that your names are accurate and avoid spelling mistakes.
+Never alter presentation and behavior at the same time. Make them separate version-controlled changes.
+
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
