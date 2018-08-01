@@ -125,6 +125,9 @@ If you spot duplication, remove it.
 - Ensure that your names are accurate and avoid spelling mistakes.
 Never alter presentation and behavior at the same time. Make them separate version-controlled changes.
 
+- Dead code is code that is never run, that can never be reached.
+Tell your code to get a life, or get lost.
+
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
