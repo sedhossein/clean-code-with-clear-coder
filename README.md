@@ -128,6 +128,13 @@ Never alter presentation and behavior at the same time. Make them separate versi
 - Dead code is code that is never run, that can never be reached.
 Tell your code to get a life, or get lost.
 
+- Other manifestations of dead code include:
+
+*Functions that are never called
+*Variables that are written but never read
+*Parameters passed to an internal method that are never used
+*Enums, structs, classes, or interfaces that are never used
+
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
