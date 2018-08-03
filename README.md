@@ -131,8 +131,11 @@ Tell your code to get a life, or get lost.
 - Other manifestations of dead code include:
 
 *Functions that are never called
+
 *Variables that are written but never read
+
 *Parameters passed to an internal method that are never used
+
 *Enums, structs, classes, or interfaces that are never used
 
 
