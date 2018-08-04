@@ -138,6 +138,8 @@ Tell your code to get a life, or get lost.
 
 *Enums, structs, classes, or interfaces that are never used
 
+- Good code does not need reams of comments to prop it up, or to explain how it works.
+Make sure that every comment adds value to the code. The code itself says what and how. A comment should explain why — but only if it’s not already clear.
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
