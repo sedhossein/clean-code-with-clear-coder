@@ -144,6 +144,10 @@ Make sure that every comment adds value to the code. The code itself says what a
 - Do not remove code by commenting it out. It confuses the reader and gets in the way.
 Every day, leave your code a little better than it was. Remove redundancy and duplication as you find it.
 
+- You can improve a system by adding new code. You can also improve a system by removing code.
+
+
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
