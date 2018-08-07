@@ -147,6 +147,8 @@ Every day, leave your code a little better than it was. Remove redundancy and du
 - You can improve a system by adding new code. You can also improve a system by removing code.
 
 
+- Features are removed from an application’s user interface, but the backend support code is left in. Wizard-generated UI code inserts hooks that are frequently never used. Remove dead code wherever possible. It gets in the way and slows you down.
+
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
