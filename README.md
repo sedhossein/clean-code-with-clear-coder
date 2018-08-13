@@ -157,6 +157,11 @@ Dead code happens in even the best codebases.
 Wizard-generated UI code inserts hooks that are frequently never used.
 Remove dead code wherever possible. It gets in the way and slows you down.
 
+
+- It is safe to remove code that you might need in the future. You can always get it back from version control.
+Code cleanup should always be made in separate commits to functional changes.
+Dead code happens in even the best codebases.
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
