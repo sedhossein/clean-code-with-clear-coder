@@ -162,6 +162,9 @@ Remove dead code wherever possible. It gets in the way and slows you down.
 Code cleanup should always be made in separate commits to functional changes.
 Dead code happens in even the best codebases.
 
+
+- You thought it was perfect when you wrote it, but cast a critical eye over your old code and you’ll inevitably bring to light all manner of code gotchas.
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
