@@ -168,6 +168,8 @@ Dead code happens in even the best codebases.
 
 - Looking back at your older code will inform you about the improvement (or otherwise) in your coding skills.
 
+- Do not ignore possible errors in your code. Don’t put off handling errors until “later” (you won’t get around to it).
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
