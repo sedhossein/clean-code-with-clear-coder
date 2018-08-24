@@ -172,6 +172,8 @@ Dead code happens in even the best codebases.
 
 - Use exceptions well, with discipline. Understand your language’s idioms and requirements for effective exception use.
 
+ - Programmers must be made aware of programmatic errors. Users must be made aware of usage errors.
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
