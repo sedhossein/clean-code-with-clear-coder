@@ -175,6 +175,9 @@ Dead code happens in even the best codebases.
  - Programmers must be made aware of programmatic errors. Users must be made aware of usage errors.
 
 - the code(work) is not your life,but they are for your life. dont forget who is master , who is slave .
+
+- it is not your company duty that improve your skills , its your task, you get money to work for them ! do it expert :-)
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
