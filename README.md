@@ -180,6 +180,7 @@ Dead code happens in even the best codebases.
 
 - be carefull, your work friends mabe exchang to your worse enemy in workplaces! 
 
+- be ontime usualy, show your master wonts and habits
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
