@@ -185,6 +185,8 @@ Dead code happens in even the best codebases.
 - you should not be obsessed with your company(job) , you should be update, agile. cause your life after job.
 you should have your personal rules for living. your are not for your work, your work is for your life.
 
+- the most places. dont need just your one skill! they wang you in a lot of parts of their need , then. if you know more things, you have more money and job request, then have more duty😅
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
