@@ -187,6 +187,9 @@ you should have your personal rules for living. your are not for your work, your
 
 - the most places. dont need just your one skill! they wang you in a lot of parts of their need , then. if you know more things, you have more money and job request, then have more duty😅
 
+- teamworking and pair programming are important soft skills that the most of programmers can not do that! improve these skills special in the crisis times.
+
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
