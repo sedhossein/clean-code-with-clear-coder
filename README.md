@@ -189,6 +189,8 @@ you should have your personal rules for living. your are not for your work, your
 
 - teamworking and pair programming are important soft skills that the most of programmers can not do that! improve these skills special in the crisis times.
 
+- one of most important rules in each groups or work places, is having friendly atomospher. make it in your team.
+
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
