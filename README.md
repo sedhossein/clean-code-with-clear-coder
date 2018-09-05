@@ -191,6 +191,7 @@ you should have your personal rules for living. your are not for your work, your
 
 - one of most important rules in each groups or work places, is having friendly atomospher. make it in your team.
 
+- at first, learn the learning tricks, googling, and training hard, then the others want you for skills. in other way never can find out the happines of softwar and working :-)
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
