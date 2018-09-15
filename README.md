@@ -195,6 +195,8 @@ you should have your personal rules for living. your are not for your work, your
 
 - be the cheap, is the most easiest way! if see that do not have any problem or chalange recently, be careful, maybe smth is went wrong nigaa!
 
+- do not fear out than new concepts and tasks, do them :) show your skills in Critical times ^^ yes, just Do it ;)
+
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
