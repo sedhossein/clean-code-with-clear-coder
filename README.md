@@ -197,6 +197,8 @@ you should have your personal rules for living. your are not for your work, your
 
 - do not fear out than new concepts and tasks, do them :) show your skills in Critical times ^^ yes, just Do it ;)
 
+- working hard and Honestly, and say your opinions and Protests , and enjoy life and proud of yourselves . Happy Code ^^
+
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
