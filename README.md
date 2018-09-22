@@ -199,6 +199,8 @@ you should have your personal rules for living. your are not for your work, your
 
 - working hard and Honestly, and say your opinions and Protests , and enjoy life and proud of yourselves . Happy Code ^^
 
+- uh,the most dangres killers, are deadlines :c  
+
 - in every position and conditions, have your business for yourself, work for it ;)
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
