@@ -202,6 +202,10 @@ you should have your personal rules for living. your are not for your work, your
 - uh,the most dangres killers, are deadlines :c  finish them to come back to relaxing ...
 
 - in every position and conditions, have your business for yourself, work for it ;)
+
+- Today Is Not All Of Your Life, You should Have Work Tommorrow! Keep Learning Every Time .
+
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
