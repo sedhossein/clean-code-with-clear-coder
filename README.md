@@ -205,6 +205,9 @@ you should have your personal rules for living. your are not for your work, your
 
 - Today Is Not All Of Your Life, You should Have Work Tommorrow! Keep Learning Every Time .
 
+- sometimes the Solution is Dirty, Yo kept code Clean!
+
+
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
