@@ -207,7 +207,10 @@ you should have your personal rules for living. your are not for your work, your
 
 - sometimes the Solution is Dirty, Yo kept code Clean!
 
-- every each time cycle, come abk and refactore your old(1year ago) codes, see your developments and Imporvments, it can help you to make better every day and hopfully life.
+- every each time cycle, come back and refactore your old(1year ago) codes, see your developments and Imporvments, it can help you to make better every day and hopfully life.
+
+
+- For Being A Clean Coder, Must Knowing The Design Patterns And Algorithms For suggeste Good Solutions In Hard&Forced Times. 
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
