@@ -213,6 +213,7 @@ you should have your personal rules for living. your are not for your work, your
 
 - Find and Make Your Own Playlists For Diffrent Situations, and use them in Good Times. In Other Words : make exception handling For Your Personality in diffrent Times To Have Control On Yourself
 
+- help your friends and teammates in they hardships, its help to improve yourself.
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
