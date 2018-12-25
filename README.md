@@ -215,6 +215,8 @@ you should have your personal rules for living. your are not for your work, your
 
 - help your friends and teammates in they hardships, its help to improve yourself.
 
+- for more improvment in your refactoring skills, see the others code in anay were, like open sources projects. and refactore some of lines and see the another beautifull world.
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
