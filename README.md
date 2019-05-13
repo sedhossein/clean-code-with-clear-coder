@@ -219,6 +219,8 @@ you should have your personal rules for living. your are not for your work, your
 
 - i think being honest, is the most important thing in all of the world! be honest in your work too. be a more clear coder ^^
 
+- Meet up with Experienced Open-minded once in a while, Ask your questions and take advice . It can Very very helpfull to you .
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
