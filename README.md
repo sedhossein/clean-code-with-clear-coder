@@ -222,6 +222,9 @@ you should have your personal rules for living. your are not for your work, your
 - Meet up with Experienced Open-minded once in a while, Ask your questions and take advice . It can Very very helpfull to you .
 
 - In Your Job Choosing and work seasons, Be carefull about job hoping, its not good for your resume at all !
+
+- never take all of your eggs in one basket! Learn other technologies and understand they concepts.
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
