@@ -227,6 +227,8 @@ you should have your personal rules for living. your are not for your work, your
 
 - The Main Difference between normal peaples with master ones is, in there special life times they reflect perfect! think perfect! being calm  and never forget there pesonal rules. they live for themselves. not other vitrines :)
 
+- you could accept that every project has special chalengs, also the need soft-skills more than hard-skills
+
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
