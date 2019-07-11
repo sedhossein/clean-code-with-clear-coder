@@ -229,6 +229,8 @@ you should have your personal rules for living. your are not for your work, your
 
 - you could accept that every project has special chalengs, also the need soft-skills more than hard-skills
 
+- Its not impotant how old are you have, the important is how much you believe yourself. you can do it ;) 
+
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
