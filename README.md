@@ -231,6 +231,8 @@ you should have your personal rules for living. your are not for your work, your
 
 - Its not impotant how old are you have, the important is how much you believe yourself. you can do it ;) 
 
+- Have Your Config and tools anywhere, playlists, notes, and ... can help you too much for getting more comfortable in your new work space.
+
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
