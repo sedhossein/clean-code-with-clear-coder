@@ -233,6 +233,7 @@ you should have your personal rules for living. your are not for your work, your
 
 - Have Your Config and tools anywhere, playlists, notes, and ... can help you too much for getting more comfortable in your new work space.
 
+- To be a lion, Train with lions !
 
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
