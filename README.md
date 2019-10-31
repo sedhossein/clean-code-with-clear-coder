@@ -235,6 +235,8 @@ you should have your personal rules for living. your are not for your work, your
 
 - To be a lion, Train with lions !
 
+- Know your technical level, don't forget your state and experience in software challenge; get help from your senior co-workers easily. every  misunderstanding in the boot state can resolve easily, but in the future maybe make  monster!
+
 - keep in mind these words :
  1. "When reviewing code, count to 10 before you refactor a line. If the code does not have tests, a hundred." - Samer Buna
 
